@@ -7,7 +7,6 @@ public class Grid : MonoBehaviour
     public GameObject myPrefab;
     public int size = 100;
     public float scale = 0.1f;
-    public float scale2 = 0.01f;
     public int terrainScale = 10;
     Cell[,] grid;
 
